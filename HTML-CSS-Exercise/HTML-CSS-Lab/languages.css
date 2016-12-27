@@ -1,0 +1,12 @@
+.lang{
+    background: lightgray;
+    font-style: normal;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+}
+
+* {
+    background: whitesmoke;
+    font-size: 40px;
+}

@@ -1,0 +1,9 @@
+.container {
+  width: 95%;
+}
+div {
+  border: 1px solid red;
+  border-radius: 55px;
+  background-color: black;
+  padding-right: 3%;
+}
